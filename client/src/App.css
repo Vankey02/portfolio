@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap");
+
 body {
   background-color: #0c090a;
   color: white;
@@ -7,4 +9,12 @@ body {
   position: absolute;
   mask-image: url("MaskSvg.svg");
   /* background: orange; */
+}
+
+.readex-pro {
+  font-family: "Readex Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 36px;
 }
