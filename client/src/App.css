@@ -1,0 +1,10 @@
+body {
+  background-color: #0c090a;
+  color: white;
+}
+
+.custom-mask {
+  position: absolute;
+  mask-image: url("MaskSvg.svg");
+  /* background: orange; */
+}
